@@ -1,0 +1,8 @@
+title: Liveblogr
+description: A Live Blogging application build using Go and PubNub
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
